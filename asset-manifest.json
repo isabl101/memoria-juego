@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/memoria-juego/static/css/main.71050164.chunk.css",
+    "main.js": "/memoria-juego/static/js/main.2390e548.chunk.js",
+    "main.js.map": "/memoria-juego/static/js/main.2390e548.chunk.js.map",
+    "runtime-main.js": "/memoria-juego/static/js/runtime-main.3bec2c2c.js",
+    "runtime-main.js.map": "/memoria-juego/static/js/runtime-main.3bec2c2c.js.map",
+    "static/js/2.e6df3ce0.chunk.js": "/memoria-juego/static/js/2.e6df3ce0.chunk.js",
+    "static/js/2.e6df3ce0.chunk.js.map": "/memoria-juego/static/js/2.e6df3ce0.chunk.js.map",
+    "static/js/3.850b93ef.chunk.js": "/memoria-juego/static/js/3.850b93ef.chunk.js",
+    "static/js/3.850b93ef.chunk.js.map": "/memoria-juego/static/js/3.850b93ef.chunk.js.map",
+    "index.html": "/memoria-juego/index.html",
+    "static/css/main.71050164.chunk.css.map": "/memoria-juego/static/css/main.71050164.chunk.css.map",
+    "static/js/2.e6df3ce0.chunk.js.LICENSE.txt": "/memoria-juego/static/js/2.e6df3ce0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bec2c2c.js",
+    "static/js/2.e6df3ce0.chunk.js",
+    "static/css/main.71050164.chunk.css",
+    "static/js/main.2390e548.chunk.js"
+  ]
+}
